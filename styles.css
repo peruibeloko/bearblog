@@ -88,7 +88,6 @@ h6 {
   font-family: var(--font-secondary);
   letter-spacing: 1px;
   padding: 0 5px;
-  padding-top: 3px;
   line-height: 1em;
   font-weight: normal;
   background-color: var(--orange);
