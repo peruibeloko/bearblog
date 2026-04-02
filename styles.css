@@ -1,10 +1,6 @@
 @import url('./fonts/IosevkaEtoile.css');
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital@0;1&display=swap');
-
-@font-face {
-  font-family: 'IBM VGA 8x16';
-  src: url('./fonts/WebPlus_IBM_VGA_8x16.woff');
-}
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
 :root {
   --shadow-a: #00094d15;
@@ -20,7 +16,7 @@
   --glow: 0px 0px 5px var(--glow-color);
   --width: 720px;
   --font-main: 'Iosevka Etoile Web', sans-serif;
-  --font-secondary: 'IBM VGA 8x16', monospace;
+  --font-secondary: 'VT323', monospace;
   --font-code: 'JetBrains Mono', monospace;
   --font-scale: 1em;
   --background-color: var(--orange_darker);
