@@ -84,7 +84,7 @@ h3,
 h4,
 h5,
 h6 {
-  display: inline;
+  display: table;
   font-family: var(--font-secondary);
   letter-spacing: 1px;
   padding: 0 5px;
